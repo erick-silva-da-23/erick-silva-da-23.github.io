@@ -1,0 +1,29 @@
+body {
+  background-color: #a2dd67;
+  text-align: center;
+  border-style: solid;
+  padding-top: 40px;
+  font-family: 'Ysabeau SC', sans-serif;
+}
+
+h1 {
+  font-size: 45pt;
+  margin-bottom: 55px;
+  font-family: 'Ysabeau SC', sans-serif;
+}
+
+p {
+  font-family: 'Ysabeau SC', sans-serif;
+  font-size: 20pt;
+}
+
+a {
+  text-align: center;
+  font-size: 30pt;
+  margin-bottom: 65px;
+  font-family: 'Ysabeau SC', sans-serif;
+}
+
+image {
+  padding-top: 75px;
+}
