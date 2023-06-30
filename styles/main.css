@@ -25,6 +25,7 @@ body {
 p {
   font-family: 'Ysabeau SC', sans-serif;
   font-size: 20pt;
+  text-align: center;
 }
 
 a {
@@ -36,4 +37,20 @@ a {
 
 image {
   padding-top: 75px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 400px) {
+  body {
+    background-color: #4dffe1;
+  }
+}
+@media screen and (min-width: 401px) and (max-width: 599px) {
+  body {
+    background-color: #1cacff;
+  }
+}
+@media screen and (min-width: 600px) {
+  body {
+    background-color: #27ff93;
+  }
 }
