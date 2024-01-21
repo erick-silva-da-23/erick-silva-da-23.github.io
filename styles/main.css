@@ -12,6 +12,7 @@ body {
 }
 
 .title {
+  width: 60%;
   font-size: 45pt;
   margin-bottom: 55px;
   font-family: 'Ysabeau SC', sans-serif;
