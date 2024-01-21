@@ -28,7 +28,16 @@ p {
   font-size: 20pt;
   text-align: center;
 }
-
+h1 {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+  text-align: center;
+  font-size: 30pt;
+  margin-bottom: 65px;
+  font-family: 'Ysabeau SC', sans-serif;
+}
 a {
   width: 60%;
   margin-left: auto;
