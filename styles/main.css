@@ -1,15 +1,14 @@
 body {
-  background-color: #a2dd67;
-  text-align: center;
-  border-style: solid;
   padding-top: 40px;
   font-family: 'Ysabeau SC', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
 }
 
 #muchtext {
-  padding-left: 520px;
-  padding-right: 520px;
-  padding-bottom: 23px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .title {
@@ -18,17 +17,22 @@ body {
   font-family: 'Ysabeau SC', sans-serif;
 }
 
-body {
-  position: static;
-}
-
 p {
+  width: 60%;
+
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
   font-family: 'Ysabeau SC', sans-serif;
   font-size: 20pt;
   text-align: center;
 }
 
 a {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
   text-align: center;
   font-size: 30pt;
   margin-bottom: 65px;
@@ -41,16 +45,16 @@ image {
 
 @media screen and (min-width: 0px) and (max-width: 400px) {
   body {
-    background-color: #4dffe1;
+    text-align: center;
   }
 }
 @media screen and (min-width: 401px) and (max-width: 599px) {
   body {
-    background-color: #1cacff;
+    text-align: center;
   }
 }
 @media screen and (min-width: 600px) {
   body {
-    background-color: #27ff93;
+    text-align: center;
   }
 }
